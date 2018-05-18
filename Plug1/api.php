@@ -1,7 +1,7 @@
 <?php
 
 //conect to the db
-mysql_connect("4ten.powwebmysql.com","root",'pass_root') or die (mysql_error)
+mysql_connect("connect to docker ucrm db ","root",'pass_root') or die (mysql_error)
 mysql_select_db("users") or die (mysql_error());
 
 //call passed fann_get_activation_function
