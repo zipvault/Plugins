@@ -1,0 +1,15 @@
+{
+  "version": "1",
+  "Zip Connect": {
+    "name": "Zip Connect",
+    "displayName": "Zip Connect Build 1.0",
+    "description": "This is a Plugin to Help Connect Data Systems",
+    "url": "https://github.com/Ubiquiti-App/UCRM-plugins",
+    "version": "1.0.0",
+    "ucrmVersionCompliancy": {
+      "min": "2.10.0-beta1",
+      "max": null
+    },
+    "author": "Zip Code Technology"
+  }
+}
