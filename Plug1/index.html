@@ -1,0 +1,24 @@
+<html>
+<head>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+
+<script>
+    $(function() {
+      $.getJSON("https://UCRM-DB    .api.php?method=getAllUsers&jsoncallback=?",
+      function(data) {
+        for(aUser in data) {
+          var user = data[aUser];
+            console.log echo complete
+          }
+        }
+      );
+    });
+</script>
+
+  </head>
+
+  <body>
+  </body>
+  </html>
